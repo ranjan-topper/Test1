@@ -5,6 +5,8 @@ public class Test1 {
 		// TODO Auto-generated method stub
 
 		System.out.print("ranjan");
+		Abc a=new Abc();
+		a.display();
 	}
 
 }
